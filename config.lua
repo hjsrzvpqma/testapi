@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '221059817:AAGu0L-tU1bxqUNAh0G72adP3tpLLfUudzM',
 	admin = 90285047,
 	log_chat = -114127786,
 	channel = '@MoonTeam', --channel username with the '@'
